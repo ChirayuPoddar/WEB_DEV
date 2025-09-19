@@ -1,0 +1,133 @@
+.child1{
+    background: linear-gradient(to right,rgb(60, 60, 220),rgb(42, 198, 255)) ;
+    color: white;
+    width: 100%;
+    margin: 20px;
+    border-radius: 5px;
+    }
+.child11{
+    padding: 1px;
+    margin: 15px;
+    width: 48%;
+    float: left;
+    line-height: 3px;
+    font-size: larger;
+    
+}
+.child12{
+    background: transparent;
+    border: 0.3px solid rgb(0, 234, 255);
+    border-radius: 10px ;
+    margin-top: 30px;
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    float: right;
+    width: 7.5%;
+    margin-right: 40px;
+    font-size: larger;
+   
+}
+.fix{
+    clear:both;
+}
+.child2{
+    line-height: 70px;
+    padding-bottom: 180px;
+    margin-left: 20px;
+    float: left;
+    width: 25%;
+    background: rgba(240, 238, 238, 0.448);
+    border-radius: 15px;
+    font-size: 25px;
+    padding-left: 40px;
+    margin-top: 10px;
+    border: 0.5px solid rgb(169, 168, 168);
+}
+button{
+    float: right ;
+}
+.child3{
+    float: right;
+    width: 70%;
+}
+.child31{
+    width: 98%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    border: 0.5px solid rgb(169, 168, 168);
+   
+}
+.child321{
+    width: 28.5%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    float: left;
+    border: 0.5px solid rgb(169, 168, 168);
+}
+.child322{
+    width: 28.5%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    margin-left: 15px;
+    margin-right: 15px;
+    float: left;
+    border: 0.5px solid rgb(169, 168, 168);
+}
+.child323{
+    width: 29%;
+    background: rgba(240, 238, 238, 0.448);
+    padding: 10px;
+    border-radius: 15px;
+    margin: 10px;
+    float: right;
+    border: 0.5px solid rgb(169, 168, 168);
+}
+.child33{
+    background: rgba(240, 238, 238, 0.448);
+    margin-top: 190px;
+    border-radius: 15px;
+    border: 0.5px solid rgb(182, 182, 182);
+    margin-left: 15px;
+}
+.child332{
+    width: 50%;
+    padding: 10px;
+    margin: 20px;
+    float: right;
+    font-size: large;
+}
+.child331{
+    border: 2px solid linear-gradient(to left,rgb(60, 60, 220),rgb(0, 170, 255)) ;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    background: linear-gradient(to left,rgb(60, 60, 220),rgb(0, 170, 255)) ;
+    float: left;
+    margin: 20px;
+    font-size: large;
+}
+.parent1{
+    font-family: sans-serif;
+    
+}
+.child11 p{
+    font-size: medium;
+} 
+.child31 p{
+    color: rgb(105, 106, 109);
+    font-size: large;
+}
+.child32 p{
+    color: rgb(105, 106, 109);
+    font-size: large;
+}
+.child332 p{
+    font-size: larger;
+}
